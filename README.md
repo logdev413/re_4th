@@ -32,4 +32,6 @@
 
 ![이미지테스트](https://ftp.mariang7.jpg3.kr/snapskin/main_banner/68b7f7f0e0334_171024_6429.jpg)
 
+<img src="https://ftp.mariang7.jpg3.kr/snapskin/main_banner/68b7f7f0e0334_171024_6429.jpg" width="50" height="50">
+
 > 인용문구
